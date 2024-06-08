@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Taller Desarollo Software\\1. TaskListApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C19AD05-8175-4631-B48A-385020BFE4F0}|TaskListApp\\TaskListApp.csproj|c:\\projects\\taller desarollo software\\1. tasklistapp\\tasklistapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C19AD05-8175-4631-B48A-385020BFE4F0}|TaskListApp\\TaskListApp.csproj|solutionrelative:tasklistapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C19AD05-8175-4631-B48A-385020BFE4F0}|TaskListApp\\TaskListApp.csproj|c:\\projects\\taller desarollo software\\1. tasklistapp\\tasklistapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C19AD05-8175-4631-B48A-385020BFE4F0}|TaskListApp\\TaskListApp.csproj|solutionrelative:tasklistapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C19AD05-8175-4631-B48A-385020BFE4F0}|TaskListApp\\TaskListApp.csproj|c:\\projects\\taller desarollo software\\1. tasklistapp\\tasklistapp\\views\\tasks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C19AD05-8175-4631-B48A-385020BFE4F0}|TaskListApp\\TaskListApp.csproj|solutionrelative:tasklistapp\\views\\tasks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C19AD05-8175-4631-B48A-385020BFE4F0}|TaskListApp\\TaskListApp.csproj|c:\\projects\\taller desarollo software\\1. tasklistapp\\tasklistapp\\views\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C19AD05-8175-4631-B48A-385020BFE4F0}|TaskListApp\\TaskListApp.csproj|solutionrelative:tasklistapp\\views\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C19AD05-8175-4631-B48A-385020BFE4F0}|TaskListApp\\TaskListApp.csproj|c:\\projects\\taller desarollo software\\1. tasklistapp\\tasklistapp\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C19AD05-8175-4631-B48A-385020BFE4F0}|TaskListApp\\TaskListApp.csproj|solutionrelative:tasklistapp\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C19AD05-8175-4631-B48A-385020BFE4F0}|TaskListApp\\TaskListApp.csproj|c:\\projects\\taller desarollo software\\1. tasklistapp\\tasklistapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C19AD05-8175-4631-B48A-385020BFE4F0}|TaskListApp\\TaskListApp.csproj|solutionrelative:tasklistapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C19AD05-8175-4631-B48A-385020BFE4F0}|TaskListApp\\TaskListApp.csproj|c:\\projects\\taller desarollo software\\1. tasklistapp\\tasklistapp\\views\\tasks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C19AD05-8175-4631-B48A-385020BFE4F0}|TaskListApp\\TaskListApp.csproj|solutionrelative:tasklistapp\\views\\tasks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C19AD05-8175-4631-B48A-385020BFE4F0}|TaskListApp\\TaskListApp.csproj|c:\\projects\\taller desarollo software\\1. tasklistapp\\tasklistapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C19AD05-8175-4631-B48A-385020BFE4F0}|TaskListApp\\TaskListApp.csproj|solutionrelative:tasklistapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C19AD05-8175-4631-B48A-385020BFE4F0}|TaskListApp\\TaskListApp.csproj|c:\\projects\\taller desarollo software\\1. tasklistapp\\tasklistapp\\migrations\\20240605004505_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C19AD05-8175-4631-B48A-385020BFE4F0}|TaskListApp\\TaskListApp.csproj|solutionrelative:tasklistapp\\migrations\\20240605004505_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C19AD05-8175-4631-B48A-385020BFE4F0}|TaskListApp\\TaskListApp.csproj|c:\\projects\\taller desarollo software\\1. tasklistapp\\tasklistapp\\views\\tasks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C19AD05-8175-4631-B48A-385020BFE4F0}|TaskListApp\\TaskListApp.csproj|solutionrelative:tasklistapp\\views\\tasks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 255,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Projects\\Taller Desarollo Software\\1. TaskListApp\\TaskListApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TaskListApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Projects\\Taller Desarollo Software\\1. TaskListApp\\TaskListApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TaskListApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T00:50:14.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Taller Desarollo Software\\1. TaskListApp\\TaskListApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaskListApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\Taller Desarollo Software\\1. TaskListApp\\TaskListApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TaskListApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T00:47:18.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240605004505_initialCreate.cs",
+              "DocumentMoniker": "C:\\Projects\\Taller Desarollo Software\\1. TaskListApp\\TaskListApp\\Migrations\\20240605004505_initialCreate.cs",
+              "RelativeDocumentMoniker": "TaskListApp\\Migrations\\20240605004505_initialCreate.cs",
+              "ToolTip": "C:\\Projects\\Taller Desarollo Software\\1. TaskListApp\\TaskListApp\\Migrations\\20240605004505_initialCreate.cs",
+              "RelativeToolTip": "TaskListApp\\Migrations\\20240605004505_initialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T00:45:05.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Taller Desarollo Software\\1. TaskListApp\\TaskListApp\\Views\\Tasks\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TaskListApp\\Views\\Tasks\\Delete.cshtml",
+              "ToolTip": "C:\\Projects\\Taller Desarollo Software\\1. TaskListApp\\TaskListApp\\Views\\Tasks\\Delete.cshtml",
+              "RelativeToolTip": "TaskListApp\\Views\\Tasks\\Delete.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T00:39:48.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Taller Desarollo Software\\1. TaskListApp\\TaskListApp\\Views\\Tasks\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TaskListApp\\Views\\Tasks\\Edit.cshtml",
+              "ToolTip": "C:\\Projects\\Taller Desarollo Software\\1. TaskListApp\\TaskListApp\\Views\\Tasks\\Edit.cshtml",
+              "RelativeToolTip": "TaskListApp\\Views\\Tasks\\Edit.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T00:39:38.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Taller Desarollo Software\\1. TaskListApp\\TaskListApp\\Views\\Tasks\\Create.cshtml",
+              "RelativeDocumentMoniker": "TaskListApp\\Views\\Tasks\\Create.cshtml",
+              "ToolTip": "C:\\Projects\\Taller Desarollo Software\\1. TaskListApp\\TaskListApp\\Views\\Tasks\\Create.cshtml",
+              "RelativeToolTip": "TaskListApp\\Views\\Tasks\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T00:39:25.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Taller Desarollo Software\\1. TaskListApp\\TaskListApp\\Views\\Tasks\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaskListApp\\Views\\Tasks\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\Taller Desarollo Software\\1. TaskListApp\\TaskListApp\\Views\\Tasks\\Index.cshtml",
+              "RelativeToolTip": "TaskListApp\\Views\\Tasks\\Index.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T00:39:09.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Projects\\Taller Desarollo Software\\1. TaskListApp\\TaskListApp\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "TaskListApp\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Projects\\Taller Desarollo Software\\1. TaskListApp\\TaskListApp\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "TaskListApp\\Controllers\\TasksController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAA0wDoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T00:35:59.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Taller Desarollo Software\\1. TaskListApp\\TaskListApp\\Program.cs",
+              "RelativeDocumentMoniker": "TaskListApp\\Program.cs",
+              "ToolTip": "C:\\Projects\\Taller Desarollo Software\\1. TaskListApp\\TaskListApp\\Program.cs",
+              "RelativeToolTip": "TaskListApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T22:47:37.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\Taller Desarollo Software\\1. TaskListApp\\TaskListApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TaskListApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Projects\\Taller Desarollo Software\\1. TaskListApp\\TaskListApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TaskListApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T22:44:32.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

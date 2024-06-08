@@ -1,0 +1,45 @@
+﻿@model PasswordGeneratorApp.Models.PasswordGenerator
+
+
+@{
+    ViewData["Title"] = "Password Generator";
+}
+
+<h1>Password Generator</h1>
+
+<form asp-action="Index" method="post">
+    <div class="form-group">
+        <label asp-for="Length" class="control-label">Length</label>
+        <input asp-for="Length" class="form-control" />
+        <span asp-validation-for="Length" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <div class="form-check">
+            <input asp-for="IncludeUppercase" class="form-check-input" />
+            <label asp-for="IncludeUppercase" class="form-check-label">Include Uppercase</label>
+        </div>
+        <div class="form-check">
+            <input asp-for="IncludeLowercase" class="form-check-input" />
+            <label asp-for="IncludeLowercase" class="form-check-label">Include Lowercase</label>
+        </div>
+        <div class="form-check">
+            <input asp-for="IncludeNumbers" class="form-check-input" />
+            <label asp-for="IncludeNumbers" class="form-check-label">Include Numbers</label>
+        </div>
+        <div class="form-check">
+            <input asp-for="IncludeSpecialChars" class="form-check-input" />
+            <label asp-for="IncludeSpecialChars" class="form-check-label">Include Special Characters</label>
+        </div>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Generate" class="btn btn-primary" />
+    </div>
+</form>
+
+@if (!string.IsNullOrEmpty(Model.GeneratedPassword))
+{
+    <div class="alert alert-success mt-4">
+        <h4>Generated Password:</h4>
+        <p>@Model.GeneratedPassword</p>
+    </div>
+}

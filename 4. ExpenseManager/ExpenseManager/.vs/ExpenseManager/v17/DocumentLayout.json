@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Taller Desarollo Software\\4. ExpenseManager\\ExpenseManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFDC0C4-3DF3-4389-809F-40AA17F383B0}|ExpenseManager\\ExpenseManager.csproj|c:\\projects\\taller desarollo software\\4. expensemanager\\expensemanager\\expensemanager\\views\\expenses\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBFDC0C4-3DF3-4389-809F-40AA17F383B0}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\views\\expenses\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFDC0C4-3DF3-4389-809F-40AA17F383B0}|ExpenseManager\\ExpenseManager.csproj|c:\\projects\\taller desarollo software\\4. expensemanager\\expensemanager\\expensemanager\\views\\expenses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBFDC0C4-3DF3-4389-809F-40AA17F383B0}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\views\\expenses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFDC0C4-3DF3-4389-809F-40AA17F383B0}|ExpenseManager\\ExpenseManager.csproj|c:\\projects\\taller desarollo software\\4. expensemanager\\expensemanager\\expensemanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBFDC0C4-3DF3-4389-809F-40AA17F383B0}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFDC0C4-3DF3-4389-809F-40AA17F383B0}|ExpenseManager\\ExpenseManager.csproj|c:\\projects\\taller desarollo software\\4. expensemanager\\expensemanager\\expensemanager\\views\\expenses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBFDC0C4-3DF3-4389-809F-40AA17F383B0}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\views\\expenses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFDC0C4-3DF3-4389-809F-40AA17F383B0}|ExpenseManager\\ExpenseManager.csproj|c:\\projects\\taller desarollo software\\4. expensemanager\\expensemanager\\expensemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFDC0C4-3DF3-4389-809F-40AA17F383B0}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFDC0C4-3DF3-4389-809F-40AA17F383B0}|ExpenseManager\\ExpenseManager.csproj|c:\\projects\\taller desarollo software\\4. expensemanager\\expensemanager\\expensemanager\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFDC0C4-3DF3-4389-809F-40AA17F383B0}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFDC0C4-3DF3-4389-809F-40AA17F383B0}|ExpenseManager\\ExpenseManager.csproj|c:\\projects\\taller desarollo software\\4. expensemanager\\expensemanager\\expensemanager\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFDC0C4-3DF3-4389-809F-40AA17F383B0}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFDC0C4-3DF3-4389-809F-40AA17F383B0}|ExpenseManager\\ExpenseManager.csproj|c:\\projects\\taller desarollo software\\4. expensemanager\\expensemanager\\expensemanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFDC0C4-3DF3-4389-809F-40AA17F383B0}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\Taller Desarollo Software\\4. ExpenseManager\\ExpenseManager\\ExpenseManager\\Migrations\\20240605021840_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExpenseManager\\Migrations\\20240605021840_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFDC0C4-3DF3-4389-809F-40AA17F383B0}|ExpenseManager\\ExpenseManager.csproj|c:\\projects\\taller desarollo software\\4. expensemanager\\expensemanager\\expensemanager\\views\\expenses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBFDC0C4-3DF3-4389-809F-40AA17F383B0}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\views\\expenses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFDC0C4-3DF3-4389-809F-40AA17F383B0}|ExpenseManager\\ExpenseManager.csproj|c:\\projects\\taller desarollo software\\4. expensemanager\\expensemanager\\expensemanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DBFDC0C4-3DF3-4389-809F-40AA17F383B0}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFDC0C4-3DF3-4389-809F-40AA17F383B0}|ExpenseManager\\ExpenseManager.csproj|c:\\projects\\taller desarollo software\\4. expensemanager\\expensemanager\\expensemanager\\data\\expensecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFDC0C4-3DF3-4389-809F-40AA17F383B0}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\data\\expensecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 255,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Taller Desarollo Software\\4. ExpenseManager\\ExpenseManager\\ExpenseManager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ExpenseManager\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Projects\\Taller Desarollo Software\\4. ExpenseManager\\ExpenseManager\\ExpenseManager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ExpenseManager\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T02:25:58.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Taller Desarollo Software\\4. ExpenseManager\\ExpenseManager\\ExpenseManager\\Views\\Expenses\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ExpenseManager\\Views\\Expenses\\Delete.cshtml",
+              "ToolTip": "C:\\Projects\\Taller Desarollo Software\\4. ExpenseManager\\ExpenseManager\\ExpenseManager\\Views\\Expenses\\Delete.cshtml",
+              "RelativeToolTip": "ExpenseManager\\Views\\Expenses\\Delete.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAUwCkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T02:17:46.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Taller Desarollo Software\\4. ExpenseManager\\ExpenseManager\\ExpenseManager\\Views\\Expenses\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ExpenseManager\\Views\\Expenses\\Edit.cshtml",
+              "ToolTip": "C:\\Projects\\Taller Desarollo Software\\4. ExpenseManager\\ExpenseManager\\ExpenseManager\\Views\\Expenses\\Edit.cshtml",
+              "RelativeToolTip": "ExpenseManager\\Views\\Expenses\\Edit.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T02:17:35.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Taller Desarollo Software\\4. ExpenseManager\\ExpenseManager\\ExpenseManager\\Views\\Expenses\\Create.cshtml",
+              "RelativeDocumentMoniker": "ExpenseManager\\Views\\Expenses\\Create.cshtml",
+              "ToolTip": "C:\\Projects\\Taller Desarollo Software\\4. ExpenseManager\\ExpenseManager\\ExpenseManager\\Views\\Expenses\\Create.cshtml",
+              "RelativeToolTip": "ExpenseManager\\Views\\Expenses\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T02:17:23.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Taller Desarollo Software\\4. ExpenseManager\\ExpenseManager\\ExpenseManager\\Views\\Expenses\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExpenseManager\\Views\\Expenses\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\Taller Desarollo Software\\4. ExpenseManager\\ExpenseManager\\ExpenseManager\\Views\\Expenses\\Index.cshtml",
+              "RelativeToolTip": "ExpenseManager\\Views\\Expenses\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T02:17:12.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExpensesController.cs",
+              "DocumentMoniker": "C:\\Projects\\Taller Desarollo Software\\4. ExpenseManager\\ExpenseManager\\ExpenseManager\\Controllers\\ExpensesController.cs",
+              "RelativeDocumentMoniker": "ExpenseManager\\Controllers\\ExpensesController.cs",
+              "ToolTip": "C:\\Projects\\Taller Desarollo Software\\4. ExpenseManager\\ExpenseManager\\ExpenseManager\\Controllers\\ExpensesController.cs",
+              "RelativeToolTip": "ExpenseManager\\Controllers\\ExpensesController.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAuwAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:16:24.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\Taller Desarollo Software\\4. ExpenseManager\\ExpenseManager\\ExpenseManager\\appsettings.json",
+              "RelativeDocumentMoniker": "ExpenseManager\\appsettings.json",
+              "ToolTip": "C:\\Projects\\Taller Desarollo Software\\4. ExpenseManager\\ExpenseManager\\ExpenseManager\\appsettings.json",
+              "RelativeToolTip": "ExpenseManager\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-05T02:15:53.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Taller Desarollo Software\\4. ExpenseManager\\ExpenseManager\\ExpenseManager\\Program.cs",
+              "RelativeDocumentMoniker": "ExpenseManager\\Program.cs",
+              "ToolTip": "C:\\Projects\\Taller Desarollo Software\\4. ExpenseManager\\ExpenseManager\\ExpenseManager\\Program.cs",
+              "RelativeToolTip": "ExpenseManager\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:13:09.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExpenseContext.cs",
+              "DocumentMoniker": "C:\\Projects\\Taller Desarollo Software\\4. ExpenseManager\\ExpenseManager\\ExpenseManager\\Data\\ExpenseContext.cs",
+              "RelativeDocumentMoniker": "ExpenseManager\\Data\\ExpenseContext.cs",
+              "ToolTip": "C:\\Projects\\Taller Desarollo Software\\4. ExpenseManager\\ExpenseManager\\ExpenseManager\\Data\\ExpenseContext.cs",
+              "RelativeToolTip": "ExpenseManager\\Data\\ExpenseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:12:48.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Projects\\Taller Desarollo Software\\4. ExpenseManager\\ExpenseManager\\ExpenseManager\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "ExpenseManager\\Models\\Expense.cs",
+              "ToolTip": "C:\\Projects\\Taller Desarollo Software\\4. ExpenseManager\\ExpenseManager\\ExpenseManager\\Models\\Expense.cs",
+              "RelativeToolTip": "ExpenseManager\\Models\\Expense.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:10:30.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240605021840_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Projects\\Taller Desarollo Software\\4. ExpenseManager\\ExpenseManager\\ExpenseManager\\Migrations\\20240605021840_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ExpenseManager\\Migrations\\20240605021840_InitialCreate.cs",
+              "ToolTip": "C:\\Projects\\Taller Desarollo Software\\4. ExpenseManager\\ExpenseManager\\ExpenseManager\\Migrations\\20240605021840_InitialCreate.cs",
+              "RelativeToolTip": "ExpenseManager\\Migrations\\20240605021840_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:18:40.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Projects\\Taller Desarollo Software\\4. ExpenseManager\\ExpenseManager\\ExpenseManager\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ExpenseManager\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Projects\\Taller Desarollo Software\\4. ExpenseManager\\ExpenseManager\\ExpenseManager\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ExpenseManager\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:21:51.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
